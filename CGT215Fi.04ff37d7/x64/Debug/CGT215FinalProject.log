@@ -1,0 +1,17 @@
+﻿  CGT215FinalProject.cpp
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,110): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,110): warning C4244:         with
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,110): warning C4244:         [
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,110): warning C4244:             T=unsigned int
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,110): warning C4244:         ]
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,39): warning C4244:         with
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,39): warning C4244:         [
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,39): warning C4244:             T=unsigned int
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(54,39): warning C4244:         ]
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(146,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(146,49): warning C4244:         with
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(146,49): warning C4244:         [
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(146,49): warning C4244:             T=unsigned int
+C:\Users\risho\source\repos\CGT215FinalProject\CGT215FinalProject.cpp(146,49): warning C4244:         ]
+  CGT215FinalProject.vcxproj -> C:\Users\risho\source\repos\CGT215FinalProject\x64\Debug\CGT215FinalProject.exe
